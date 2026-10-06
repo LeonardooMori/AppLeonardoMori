@@ -1,0 +1,6 @@
+authentication login: leobmori@gmail.com
+	       senha: 123456
+
+cadastrar usario da tabela, dados ja cadastrados: teste@gmail.com
+						  teste
+						  123456
